@@ -77,5 +77,5 @@ window.ApexCharts = ApexCharts; // return apex chart
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 ```
-then start `rails server`
+then start `rails server` 
 Note: You may need to install some extra package has during compilation shows package missing `clipboard`
