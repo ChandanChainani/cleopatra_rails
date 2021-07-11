@@ -1,4 +1,6 @@
 # README
+The project was actually a [question](https://stackoverflow.com/questions/67585007/how-do-i-install-a-template-css-js-with-webpackers-in-rails-6/67715676#67715676) in stackoverflow which can check [here](https://stackoverflow.com/a/67715676/14475852
+)
 
 ## Steps:
 1. cloned cleopatra theme repo locally
@@ -76,9 +78,4 @@ window.ApexCharts = ApexCharts; // return apex chart
 @import "tailwindcss/utilities";
 ```
 then start `rails server`
-
 Note: You may need to install some extra package has during compilation shows package missing `clipboard`
-
-https://stackoverflow.com/questions/67585007/how-do-i-install-a-template-css-js-with-webpackers-in-rails-6/67715676#67715676
-
-https://stackoverflow.com/a/67715676/14475852
