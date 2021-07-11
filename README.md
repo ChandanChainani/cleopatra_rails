@@ -1,4 +1,3 @@
-# README
 The project was actually a [question](https://stackoverflow.com/questions/67585007/how-do-i-install-a-template-css-js-with-webpackers-in-rails-6/67715676#67715676) in stackoverflow which can checked [here](https://stackoverflow.com/a/67715676/14475852
 )
 
@@ -77,5 +76,6 @@ window.ApexCharts = ApexCharts; // return apex chart
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 ```
-then start `rails server`  
+then start `rails server`
+
 Note: You may need to install some extra package has during compilation shows package missing `clipboard`
