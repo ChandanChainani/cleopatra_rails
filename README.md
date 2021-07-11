@@ -1,4 +1,4 @@
-The project was actually a [question](https://stackoverflow.com/questions/67585007/how-do-i-install-a-template-css-js-with-webpackers-in-rails-6/67715676#67715676) in stackoverflow which can checked [here](https://stackoverflow.com/a/67715676/14475852
+The project was actually a [question](https://stackoverflow.com/questions/67585007/how-do-i-install-a-template-css-js-with-webpackers-in-rails-6/67715676#67715676) in stackoverflow which can be checked [here](https://stackoverflow.com/a/67715676/14475852
 )
 
 ## Steps:
